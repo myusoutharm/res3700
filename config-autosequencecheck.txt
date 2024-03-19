@@ -1,0 +1,3 @@
+to=["email1@yourdomain.com","email2@yourdomain.com"]
+sender=Sender Name <sender@yourdomain.com.com>
+template_id=TEMPLATE_ID
