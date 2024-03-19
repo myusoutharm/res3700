@@ -2,6 +2,8 @@
 ## When RES 3700 Autosequence is stuck, EOD procedure often fails to execute, resulting in sales numbers not posted and incorrect report
 ## A common fix, recommneded by Oracle, is to re-install AutoSequence service
 ## Save this file and its configuration file in INSTALLATION_PATH\RES\POS\Scripts
+## Corpyright Minghui Yu, myu@southarm.ca
+## Free script; no support; use at your own risk
 
 # Read config file
 $configFile = "config-autosequencecheck.txt"
